@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  border: 0;
+}
+
+.container {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container img {
+  width: 40vh;
+  height: 50vh;
+  margin: 40px;
+}
